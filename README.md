@@ -1,10 +1,10 @@
 # Text analytics and text classification using TextBlob for BLUELOCK anime. 
 
-<center>
-[![image](https://github.com/rakimreid/bluelock-NLP/assets/23224784/7275bc39-8349-4993-a3df-386532c0640a)](https://i.pinimg.com/originals/4a/44/dc/4a44dc69992d3db5702e300e96c25123.gif)
+<div align = "center">
+<img src="https://i.pinimg.com/originals/4a/44/dc/4a44dc69992d3db5702e300e96c25123.gif">
+</div>
 
-</center>
-
+<br><br><br>
 Anime and manga are <i>retail products</i>. The purpose of this projoect is to identify what types of words resonate with audiences. This will provide insight into why this series was chosen for an anime adaptation and marketing. 
 The second part of this project is to determine if lines from an anime series can serve as training data for text classification.
 
